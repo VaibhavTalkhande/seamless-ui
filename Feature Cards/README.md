@@ -2,20 +2,20 @@
 
 <table>
   <tr>
-    <td width="33.3333%">feature-card-0</td>
-    <td width="33.3333%">feature-card-1</td>
-    <td width="33.3333%">feature-card-2</td>
+    <td width="33.3333%">feature-card-0-black</td>
+    <td width="33.3333%">feature-card-0-blue</td>
+    <td width="33.3333%">feature-card-0-white</td>
   </tr>
 
   <tr>
     <td width="33.3333%">
-      <a href="https://github.com/Clueless-Community/seamless-ui/blob/main/Feature%20Cards/src/feature-card-0.html"><img src="https://i.ibb.co/hC0Hsvb/image.png" alt="image" border="0" /></a>
+      <a href="https://github.com/Clueless-Community/seamless-ui/blob/3bf2e3e074892db0077a928817a6df4a2905467f/Feature%20Cards/src/feature-card-0-black.html"><img src="https://www.linkpicture.com/q/feature-card-0-black.png" alt="image" border="0" /></a>
     </td>
     <td width="33.3333%">
-      <a href="https://github.com/Clueless-Community/seamless-ui/blob/main/Feature%20Cards/src/feature-card-01.html"><img src="https://i.ibb.co/xsny6rF/1.png" alt="image" border="0" /></a>
+      <a href="https://github.com/Clueless-Community/seamless-ui/blob/3bf2e3e074892db0077a928817a6df4a2905467f/Feature%20Cards/src/feature-card-0-blue.html"><img src="https://www.linkpicture.com/q/feature-card-0-blue.png" alt="image" border="0" /></a>
     </td>
     <td width="33.3333%">
-      <a href="https://github.com/Clueless-Community/seamless-ui/blob/main/Feature%20Cards/src/feature-card-02.html"><img src="https://i.ibb.co/5kHbmcX/2.png" alt="image" border="0" /></a>
+      <a href="https://github.com/Clueless-Community/seamless-ui/blob/3bf2e3e074892db0077a928817a6df4a2905467f/Feature%20Cards/src/feature-card-0-white.html"><img src="https://www.linkpicture.com/q/Screenshot-34_10.png" alt="image" border="0" /></a>
     </td>
   </tr>
 
